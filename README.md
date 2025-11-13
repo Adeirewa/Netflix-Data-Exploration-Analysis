@@ -30,7 +30,7 @@ cd Netflix-Data-Exploration-Analysis
 ## 📚 Notebook
 A full analysis is available in:
 
-netflix_analysis.ipynb
+[Netflix Analysis Notebook](Netflix Data Analysis.ipynb)
 
 This includes:
 - Data cleaning
