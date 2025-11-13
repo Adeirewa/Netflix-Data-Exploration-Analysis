@@ -24,7 +24,8 @@ git clone https://github.com/Adeirewa/Netflix-Data-Exploration-Analysis.git
 cd Netflix-Data-Exploration-Analysis
 
 ## 🌐 Live Streamlit Dashboard
-👉 https://your-streamlit-link-here.streamlit.app
+
+👉https://netflix-data-exploration-analysisgit-8py6whdnfwb9ezj8greaed.streamlit.app/
 
 ## 📚 Notebook
 A full analysis is available in:
