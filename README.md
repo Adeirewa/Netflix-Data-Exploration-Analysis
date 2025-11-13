@@ -1,24 +1,38 @@
-<<<<<<< HEAD
 # 🎬 Netflix Data Analysis Dashboard
 
-An interactive Streamlit dashboard that explores Netflix's content library — trends, genres, ratings, and more — built with Python and Streamlit.
+An end-to-end data analysis project exploring 8,000+ Netflix titles to uncover insights on content trends, genres, ratings, and release patterns.
+The project includes a complete Python exploratory analysis, a clean dataset, and a fully interactive Streamlit dashboard for dynamic exploration.
 
-## 📊 Features
-- Explore total titles added by year
-- Visualize top genres and ratings
-- Filter movies and TV shows dynamically
+## 📊 Key Insights
+Some major insights discovered:
+- Movies dominate Netflix’s content library compared to TV Shows.
+- The largest surge in Netflix titles occurred between 2018–2020.
+- USA, India, and the UK lead global content production.
+- International Movies, Dramas, and Comedies are top genre categories.
+The dataset shows a shift toward more diverse, global content in recent years.
 
-## 🧠 Tools Used
-- Python (pandas, matplotlib, seaborn)
-- Streamlit (for dashboard)
-- Jupyter Notebook (for analysis)
+## 🛠️ Tools & Technologies
+- Python: pandas, numpy, matplotlib, seaborn
+- Jupyter Notebook for exploration and EDA
+- Streamlit for building the interactive dashboard
+- Git & GitHub for version control
 
 ## 🚀 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/adeirewa/netflix-data-analysis.git
-   cd netflix-data-analysis
-=======
-# Netflix-Data-Exploration-Analysis
-This project aims to explore how content has transformed on the Netflix platform. As a movie lover, this is an exciting project for me.Let's explore!
->>>>>>> b4c6bfe61f384d15071281400d0310f2669e6b5a
+1. Clone the repository
+git clone https://github.com/Adeirewa/Netflix-Data-Exploration-Analysis.git
+
+cd Netflix-Data-Exploration-Analysis
+
+## 🌐 Live Streamlit Dashboard
+👉 https://your-streamlit-link-here.streamlit.app
+
+## 📚 Notebook
+A full analysis is available in:
+
+netflix_analysis.ipynb
+
+This includes:
+- Data cleaning
+- Exploratory data analysis
+- Visualizations
+- Summary insights
